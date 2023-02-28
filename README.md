@@ -3,11 +3,9 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br />
+
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
-<br />
-<br />
-I'm a Machine Learning Engineer with 1+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Machine Learning Engineer with 1+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages related to ML.
 <br />
 
 I'm currently based in **[Kerala,India.]()**
@@ -16,7 +14,7 @@ I'm currently based in **[Kerala,India.]()**
 I love learning new techs and using new tools.
 <br />
 <br />
-Ask me anything **[here](https://github.com/DeVcb13d/DeVcb13d/issues/new)** or <a href="mailto:devcb@pg.cusat.ac.in"><b>send me an email</b></a>.
+<a href="mailto:devcb@pg.cusat.ac.in"><b>send me an email</b></a>.
 <br />
 <br />
 
@@ -29,10 +27,6 @@ Ask me anything **[here](https://github.com/DeVcb13d/DeVcb13d/issues/new)** or <
 <br />
 
 **Happy Coding!** 😊
-
-</div>
-
-<div align="center">
 
 
 <div align="center">
