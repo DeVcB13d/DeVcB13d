@@ -5,7 +5,7 @@
 <br />
 
 <br />
-I'm a Machine Learning Engineer with 1+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages related to ML.
+I'm a Machine Learning Engineer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages related to ML.
 <br />
 
 I'm currently based in **[Kerala,India.]()**
@@ -26,10 +26,4 @@ I love learning new techs and using new tools.
 <br />
 <br />
 
-**Happy Coding!** 😊
 
-
-<div align="center">
-Credit: [abdoachhoubi](https://github.com/abdoachhoubi)
-Last Edited on: 30/06/2022
-</div>
