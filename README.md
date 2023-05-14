@@ -1,3 +1,22 @@
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<a href="https://www.linkedin.com/in/c-b-dev-narayan-79b332227/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<br />
+
+<br />
+I'm a Machine Learning Engineer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages related to ML.
+<br />
+
+I'm currently based in **[Kerala,India.]()**
+
+<br />
+I love learning new techs and using new tools.
+<br />
+<br />
+<a href="mailto:devcb@pg.cusat.ac.in"><b>send me an email</b></a>.
+<br />
+<br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c-b-dev-narayan-79b332227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devcb1313) 
