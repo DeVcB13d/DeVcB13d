@@ -14,7 +14,7 @@ I'm currently based in **[Kerala,India.]()**
 I love learning new techs and using new tools.
 <br />
 <br />
-<a href="mailto:devcb@pg.cusat.ac.in"><b>send me an email</b></a>.
+<a href="mailto:devcb1313@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
@@ -27,9 +27,6 @@ I love learning new techs and using new tools.
 ![](https://github-readme-stats.vercel.app/api?username=DeVcB13d&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeVcB13d&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeVcB13d&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeVcB13d&limit=5&theme=dark&combine_all_yearly_contributions=true)
