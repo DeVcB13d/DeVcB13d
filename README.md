@@ -36,6 +36,16 @@ I love learning new techs and using new tools.
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devcb1313c) 
+  ## Please Do visit my websites
+
+  1. Portfolio : <a href="https://devcb13d.github.io" target="_blank">Devcb13d.github.io</a>
+  2. <img 
+    src="https://github.com/DeVcB13d/tutoroji.github.io/blob/main/images/logo2.jpg" 
+    alt="Tutoroji.com" 
+    style="width: 20px; height: auto;">
+    </a>
+ <a href="https://tutoroji.com/">Tutoroji - Online Medical Tutions</a>
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
